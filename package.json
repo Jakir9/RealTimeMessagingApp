@@ -1,8 +1,8 @@
 {
   "dependencies": {
+    "express": "latest",
+    "jade": "latest",
     "node": "^20.1.0",
-    "socket.io": "latest",
-        "express": "latest",
-        "jade": "latest"
+    "socket.io": "^4.6.1"
   }
 }
