@@ -2,7 +2,6 @@
 
 Made using NodeJS, ExpressJS, Socket.io & JavaScript
 Followed a step by step tutorial online
-Runs on port 1010
 
 ## Features
 
